@@ -1,0 +1,6 @@
+asyncio
+feedparser
+requests
+bs4
+python-dotenv
+openai
